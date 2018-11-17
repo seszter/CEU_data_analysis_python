@@ -1,16 +1,116 @@
-Trip ID,Duration,Start Date,Start Station,Start Terminal,End Date,End Station,End Terminal,Bike #,Subscription Type,Zip Code
-198757,277,2/28/2014 20:40,Mountain View Caltrain Station,28,2/28/2014 20:45,Castro Street and El Camino Real,32,129,Subscriber,94040
-198760,598,2/28/2014 20:59,Market at Sansome,77,2/28/2014 21:09,South Van Ness at Market,66,283,Subscriber,94102
-198761,399,2/28/2014 20:59,Market at Sansome,77,2/28/2014 21:06,Civic Center BART (7th at Market),72,337,Subscriber,94103
-198763,685,2/28/2014 21:32,Clay at Battery,41,2/28/2014 21:43,Post at Kearney,47,606,Customer,56006
-198764,168,2/28/2014 21:32,2nd at Townsend,61,2/28/2014 21:35,San Francisco Caltrain (Townsend at 4th),70,427,Subscriber,94107
-198765,429,2/28/2014 21:34,Embarcadero at Bryant,54,2/28/2014 21:41,San Francisco Caltrain 2 (330 Townsend),69,433,Subscriber,94105
-198766,342,2/28/2014 21:41,Market at Sansome,77,2/28/2014 21:46,Yerba Buena Center of the Arts (3rd @ Howard),68,398,Subscriber,94105
-198767,744,2/28/2014 21:50,South Van Ness at Market,66,2/28/2014 22:03,Post at Kearney,47,511,Subscriber,94702
-198768,225,2/28/2014 21:54,2nd at Folsom,62,2/28/2014 21:57,Yerba Buena Center of the Arts (3rd @ Howard),68,635,Subscriber,94107
-198770,850,2/28/2014 22:19,Townsend at 7th,65,2/28/2014 22:34,Post at Kearney,47,479,Subscriber,94108
-198771,385,2/28/2014 22:15,Powell Street BART,39,2/28/2014 22:22,South Van Ness at Market,66,483,Subscriber,94404
-198772,145,2/28/2014 22:38,Commercial at Montgomery,45,2/28/2014 22:40,Davis at Jackson,42,425,Subscriber,94111
-198773,677,2/28/2014 22:45,Embarcadero at Sansome,60,2/28/2014 22:56,Market at 4th,76,438,Subscriber,94102
-198774,64128,2/28/2014 23:01,Civic Center BART (7th at Market),72,3/1/2014 16:50,Harry Bridges Plaza (Ferry Building),50,414,Customer,94124
-198775,570,2/28/2014 23:20,2nd at South Park,64,2/28/2014 23:30,Townsend at 7th,65,577,Subscriber,94107
+Trip ID,Start Date,Start Station,Start Terminal,End Date,End Station,End Terminal,Bike #,Subscription Type,Zip Code
+198616,2/28/2014 18:00,Clay at Battery,70,2/28/2014 18:15,Civic Center BART (7th at Market),72,348,Subscriber,94127
+198617,2/28/2014 18:00,Clay at Battery,70,2/28/2014 18:15,Civic Center BART (7th at Market),72,482,Subscriber,94122
+198618,2/28/2014 18:01,Clayat Battery,73,2/28/2014 18:08,Harry Bridges Plaza (Ferry Building),50,222,Customer,94901
+198619,2/28/2014 18:01,Clay at Battery,45,2/28/2014 18:07,Temporary Transbay Terminal (Howard at Beale),55,620,Subscriber,94611
+198620,2/28/2014 18:01,Clay at Battery,64,2/28/2014 18:15,Clay at Battery,41,606,Subscriber,94107
+198623,2/28/2014 17:55,Clay at Battery,77,2/28/2014 18:02,Civic Center BART (7th at Market),72,352,Subscriber,94103
+198624,2/28/2014 18:03,Clay at Battery,69,2/28/2014 18:11,Powell Street BART,39,427,Subscriber,94544
+198625,2/28/2014 18:03,Clay at Battery,35,2/28/2014 18:07,Cowper at University,37,138,Subscriber,94301
+198626,2/28/2014 18:03,Clay at Battery,82,2/28/2014 18:17,San Francisco Caltrain (Townsend at 4th),70,569,Subscriber,95130
+198627,2/28/2014 18:04,Clay at Battery,61,2/28/2014 18:10,Market at Sansome,77,283,Subscriber,94702
+198629,2/28/2014 18:03,Clay at Battery,39,2/28/2014 18:11,Temporary Transbay Terminal (Howard at Beale),55,495,Subscriber,94602
+198631,2/28/2014 18:06,Clay at Battery,70,2/28/2014 18:18,Harry Bridges Plaza (Ferry Building),50,514,Subscriber,94930
+198632,2/28/2014 18:07,Clay at Battery,64,2/28/2014 18:17,5th at Howard,57,515,Subscriber,94103
+198633,2/28/2014 18:08,Clay at Battery,65,2/28/2014 18:12,San Francisco Caltrain (Townsend at 4th),70,389,Subscriber,94158
+198634,2/28/2014 18:08,Clay at Battery,76,2/28/2014 18:18,San Francisco Caltrain (Townsend at 4th),70,324,Subscriber,94040
+198636,2/28/2014 18:11,Clay at Battery,74,2/28/2014 18:21,San Francisco Caltrain (Townsend at 4th),70,545,Subscriber,94158
+198637,2/28/2014 18:12,Clay at Battery,28,2/28/2014 18:18,Castro Street and El Camino Real,32,146,Subscriber,94041
+198638,2/28/2014 18:13,Clay at Battery,74,2/28/2014 18:16,Embarcadero at Folsom,51,375,Subscriber,94040
+198639,2/28/2014 18:13,Clay at Battery,68,2/28/2014 18:19,Civic Center BART (7th at Market),72,292,Subscriber,94103
+198640,2/28/2014 18:14,Clay at Battery,49,2/28/2014 18:20,Beale at Market,56,431,Subscriber,94110
+198641,2/28/2014 18:10,Clay at Battery,39,2/28/2014 18:19,Washington at Kearney,46,373,Subscriber,94133
+198642,2/28/2014 18:14,Clay at Battery,75,2/28/2014 18:30,Townsend at 7th,65,345,Subscriber,94107
+198643,2/28/2014 18:16,Clay at Battery,63,2/28/2014 18:24,San Francisco Caltrain 2 (330 Townsend),69,439,Subscriber,95112
+198644,2/28/2014 18:17,Clay at Battery,51,2/28/2014 18:34,Embarcadero at Bryant,54,329,Subscriber,94040
+198646,2/28/2014 18:20,Clay at Battery,56,2/28/2014 18:23,Beale at Market,56,431,Subscriber,94110
+198647,2/28/2014 18:20,Clay at Battery,41,2/28/2014 18:25,Market at Sansome,77,606,Subscriber,94612
+198648,2/28/2014 18:20,Clay at Battery,65,2/28/2014 18:27,Civic Center BART (7th at Market),72,414,Subscriber,94541
+198649,2/28/2014 18:23,Clay at Battery,50,2/28/2014 18:28,Embarcadero at Bryant,54,409,Subscriber,94105
+198652,2/28/2014 18:24,Clay at Battery,57,2/28/2014 18:29,San Francisco Caltrain (Townsend at 4th),70,632,Subscriber,94301
+198653,2/28/2014 18:24,Clay at Battery,49,2/28/2014 18:36,Powell at Post (Union Square),71,395,Subscriber,94105
+198654,2/28/2014 18:25,Clay at Battery,63,2/28/2014 18:32,San Francisco Caltrain 2 (330 Townsend),69,274,Subscriber,94102
+198655,2/28/2014 18:25,Clay at Battery,74,2/28/2014 18:37,Yerba Buena Center of the Arts (3rd @ Howard),68,454,Subscriber,94117
+198658,2/28/2014 18:25,Clay at Battery,60,2/28/2014 18:30,Steuart at Market,74,287,Subscriber,94609
+198659,2/28/2014 18:26,Clayat Battery,61,2/28/2014 18:35,Townsend at 7th,65,268,Customer,20004
+198663,2/28/2014 18:28,Clay at Battery,76,2/28/2014 18:40,Golden Gate at Polk,59,634,Subscriber,94122
+198664,2/28/2014 18:29,Clay at Battery,45,2/28/2014 18:34,Davis at Jackson,42,437,Subscriber,94111
+198666,2/28/2014 18:29,Clay at Battery,64,2/28/2014 18:34,San Francisco Caltrain 2 (330 Townsend),69,278,Subscriber,94107
+198668,2/28/2014 18:28,Clay at Battery,70,2/28/2014 18:35,Embarcadero at Bryant,54,608,Subscriber,94105
+198669,2/28/2014 18:32,Clay at Battery,61,2/28/2014 18:41,Harry Bridges Plaza (Ferry Building),50,465,Subscriber,94558
+198671,2/28/2014 18:34,Clay at Battery,46,2/28/2014 18:50,Embarcadero at Bryant,54,548,Subscriber,94107
+198672,2/28/2014 18:35,Clay at Battery,54,2/28/2014 18:36,Spear at Folsom,49,507,Subscriber,94105
+198673,2/28/2014 18:35,Clay at Battery,30,2/28/2014 18:39,Mountain View Caltrain Station,28,129,Subscriber,94133
+198674,2/28/2014 18:38,Clay at Battery,82,2/28/2014 18:48,Powell at Post (Union Square),71,617,Subscriber,94109
+198675,2/28/2014 18:39,Clay at Battery,69,2/28/2014 18:47,Powell Street BART,39,439,Subscriber,94103
+198676,2/28/2014 18:41,Clay at Battery,45,2/28/2014 18:46,Grant Avenue at Columbus Avenue,73,416,Subscriber,94133
+198677,2/28/2014 18:41,Clay at Battery,69,2/28/2014 18:56,Washington at Kearney,46,541,Subscriber,94133
+198680,2/28/2014 18:45,Clay at Battery,37,2/28/2014 19:08,Broadway at Main,25,695,Subscriber,94061
+198681,2/28/2014 18:46,Clay at Battery,64,2/28/2014 18:51,Market at Sansome,77,398,Subscriber,94568
+198682,2/28/2014 18:46,Clay at Battery,70,2/28/2014 18:53,Howard at 2nd,63,389,Subscriber,94105
+198683,2/28/2014 18:47,Clayat Battery,74,2/28/2014 18:55,Yerba Buena Center of the Arts (3rd @ Howard),68,339,Customer,94121
+198684,2/28/2014 18:47,Clay at Battery,56,2/28/2014 18:53,Spear at Folsom,49,556,Subscriber,94105
+198685,2/28/2014 18:48,Clay at Battery,68,2/28/2014 18:52,San Francisco Caltrain (Townsend at 4th),70,454,Subscriber,94087
+198686,2/28/2014 18:48,Clay at Battery,69,2/28/2014 18:55,2nd at South Park,64,563,Subscriber,94107
+198688,2/28/2014 18:52,Clay at Battery,42,2/28/2014 18:57,Commercial at Montgomery,45,437,Subscriber,94111
+198690,2/28/2014 18:53,Clay at Battery,61,2/28/2014 18:58,San Francisco Caltrain 2 (330 Townsend),69,341,Subscriber,94109
+198693,2/28/2014 18:54,Clay at Battery,45,2/28/2014 19:01,Beale at Market,56,347,Subscriber,94105
+198695,2/28/2014 18:55,Clay at Battery,47,2/28/2014 19:00,2nd at South Park,64,637,Subscriber,94939
+198696,2/28/2014 18:55,Clay at Battery,64,2/28/2014 19:00,Temporary Transbay Terminal (Howard at Beale),55,491,Subscriber,94618
+198699,2/28/2014 18:59,Clay at Battery,55,2/28/2014 19:10,2nd at Townsend,61,613,Subscriber,94158
+198700,2/28/2014 19:00,Clay at Battery,50,2/28/2014 19:08,Grant Avenue at Columbus Avenue,73,222,Subscriber,94133
+198701,2/28/2014 18:58,Clay at Battery,74,2/28/2014 19:10,San Francisco Caltrain 2 (330 Townsend),69,287,Subscriber,94040
+198702,2/28/2014 19:03,Clay at Battery,77,2/28/2014 19:14,San Francisco Caltrain 2 (330 Townsend),69,332,Subscriber,95008
+198703,2/28/2014 19:05,Clayat Battery,73,3/2/2014 16:52,Grant Avenue at Columbus Avenue,73,319,Customer,94110
+198704,2/28/2014 19:05,Clay at Battery,64,2/28/2014 19:12,Harry Bridges Plaza (Ferry Building),50,578,Subscriber,94501
+198707,2/28/2014 19:12,Clay at Battery,28,2/28/2014 19:27,Rengstorff Avenue / California Street,33,302,Subscriber,94040
+198708,2/28/2014 19:12,Clay at Battery,64,2/28/2014 19:15,2nd at Folsom,62,563,Subscriber,94501
+198709,2/28/2014 19:12,Clay at Battery,69,2/28/2014 19:21,Harry Bridges Plaza (Ferry Building),50,271,Subscriber,94577
+198710,2/28/2014 19:13,Clay at Battery,68,2/28/2014 19:19,San Francisco Caltrain 2 (330 Townsend),69,339,Subscriber,94107
+198713,2/28/2014 19:17,Clay at Battery,69,2/28/2014 19:24,Powell Street BART,39,341,Subscriber,94114
+198715,2/28/2014 19:19,Clay at Battery,71,2/28/2014 19:28,Market at 10th,67,604,Subscriber,94102
+198716,2/28/2014 19:20,Clay at Battery,2,2/28/2014 19:33,MLK Library,11,685,Subscriber,95112
+198717,2/28/2014 19:22,Clay at Battery,62,2/28/2014 19:33,Civic Center BART (7th at Market),72,603,Subscriber,94102
+198718,2/28/2014 19:23,Clay at Battery,62,2/28/2014 19:24,Howard at 2nd,63,563,Subscriber,94501
+198719,2/28/2014 19:23,Clay at Battery,64,2/28/2014 19:26,San Francisco Caltrain (Townsend at 4th),70,637,Subscriber,94063
+198720,2/28/2014 19:23,Clay at Battery,57,2/28/2014 19:30,South Van Ness at Market,66,485,Subscriber,94103
+198721,2/28/2014 19:17,Clay at Battery,77,2/28/2014 19:25,Clay at Battery,41,606,Subscriber,94040
+198722,2/28/2014 19:25,Clay at Battery,70,2/28/2014 19:36,Harry Bridges Plaza (Ferry Building),50,569,Subscriber,94610
+198728,2/28/2014 19:33,Clay at Battery,70,2/28/2014 19:37,2nd at South Park,64,632,Subscriber,94107
+198730,2/28/2014 19:35,Clay at Battery,71,2/28/2014 19:51,Spear at Folsom,49,395,Subscriber,94105
+198731,2/28/2014 19:36,Clayat Battery,72,2/28/2014 19:46,Powell at Post (Union Square),71,352,Customer,94595
+198732,2/28/2014 19:36,Clay at Battery,2,2/28/2014 19:47,SJSU - San Salvador at 9th,16,701,Subscriber,95112
+198733,2/28/2014 19:37,Clay at Battery,63,2/28/2014 19:50,Townsend at 7th,65,563,Subscriber,94107
+198734,2/28/2014 19:37,Clay at Battery,70,2/28/2014 19:52,Broadway St at Battery St,82,377,Subscriber,94133
+198736,2/28/2014 19:40,Clay at Battery,51,2/28/2014 19:43,Steuart at Market,74,500,Subscriber,94103
+198737,2/28/2014 19:41,Clay at Battery,69,2/28/2014 19:48,5th at Howard,57,288,Subscriber,94103
+198739,2/28/2014 19:44,Clay at Battery,27,2/28/2014 19:48,Mountain View Caltrain Station,28,134,Subscriber,94401
+198742,2/28/2014 20:06,Clay at Battery,59,2/28/2014 20:09,Civic Center BART (7th at Market),72,562,Subscriber,94114
+198743,2/28/2014 20:10,Clayat Battery,54,2/28/2014 20:19,Howard at 2nd,63,315,Customer,10028
+198744,2/28/2014 20:11,Clayat Battery,54,2/28/2014 20:19,Howard at 2nd,63,619,Customer,10028
+198745,2/28/2014 20:15,Clay at Battery,57,2/28/2014 20:22,San Francisco Caltrain (Townsend at 4th),70,618,Subscriber,95110
+198746,2/28/2014 20:16,Clay at Battery,67,2/28/2014 20:20,Powell Street BART,39,317,Subscriber,94107
+198747,2/28/2014 20:16,Clay at Battery,67,2/28/2014 20:24,Market at 4th,76,384,Subscriber,94108
+198748,2/28/2014 20:17,Clay at Battery,63,2/28/2014 20:21,2nd at Townsend,61,277,Subscriber,94107
+198749,2/28/2014 20:18,Clay at Battery,76,2/28/2014 20:31,San Francisco Caltrain 2 (330 Townsend),69,481,Subscriber,94102
+198750,2/28/2014 20:22,Clay at Battery,65,2/28/2014 20:26,San Francisco Caltrain (Townsend at 4th),70,268,Subscriber,94107
+198751,2/28/2014 20:24,Clay at Battery,77,2/28/2014 20:26,Commercial at Montgomery,45,425,Subscriber,94111
+198752,2/28/2014 20:25,Clay at Battery,76,2/28/2014 20:33,Davis at Jackson,42,614,Subscriber,94108
+198753,2/28/2014 20:26,Clay at Battery,76,2/28/2014 20:43,Davis at Jackson,42,384,Subscriber,94111
+198754,2/28/2014 20:26,Clay at Battery,77,2/28/2014 20:31,Washington at Kearney,46,286,Subscriber,94107
+198755,2/28/2014 20:28,Clay at Battery,24,2/28/2014 20:53,Cowper at University,37,90,Subscriber,94061
+198757,2/28/2014 20:40,Clay at Battery,28,2/28/2014 20:45,Castro Street and El Camino Real,32,129,Subscriber,94040
+198760,2/28/2014 20:59,Clay at Battery,77,2/28/2014 21:09,South Van Ness at Market,66,283,Subscriber,94102
+198761,2/28/2014 20:59,Clay at Battery,77,2/28/2014 21:06,Civic Center BART (7th at Market),72,337,Subscriber,94103
+198763,2/28/2014 21:32,Clay at Battery,41,2/28/2014 21:43,Post at Kearney,47,606,Customer,56006
+198764,2/28/2014 21:32,Clay at Battery,61,2/28/2014 21:35,San Francisco Caltrain (Townsend at 4th),70,427,Subscriber,94107
+198765,2/28/2014 21:34,Clay at Battery,54,2/28/2014 21:41,San Francisco Caltrain 2 (330 Townsend),69,433,Subscriber,94105
+198766,2/28/2014 21:41,Clay at Battery,77,2/28/2014 21:46,Yerba Buena Center of the Arts (3rd @ Howard),68,398,Subscriber,94105
+198767,2/28/2014 21:50,Clay at Battery,66,2/28/2014 22:03,Post at Kearney,47,511,Subscriber,94702
+198768,2/28/2014 21:54,Clay at Battery,62,2/28/2014 21:57,Yerba Buena Center of the Arts (3rd @ Howard),68,635,Subscriber,94107
+198770,2/28/2014 22:19,Clay at Battery,65,2/28/2014 22:34,Post at Kearney,47,479,Subscriber,94108
+198771,2/28/2014 22:15,Clay at Battery,39,2/28/2014 22:22,South Van Ness at Market,66,483,Subscriber,94404
+198772,2/28/2014 22:38,Clay at Battery,45,2/28/2014 22:40,Davis at Jackson,42,425,Subscriber,94111
+198773,2/28/2014 22:45,Clay at Battery,60,2/28/2014 22:56,Market at 4th,76,438,Subscriber,94102
+198774,2/28/2014 23:01,Clayat Battery,72,3/1/2014 16:50,Harry Bridges Plaza (Ferry Building),50,414,Customer,94124
+198775,2/28/2014 23:20,Clay at Battery,64,2/28/2014 23:30,Townsend at 7th,65,577,Subscriber,94107

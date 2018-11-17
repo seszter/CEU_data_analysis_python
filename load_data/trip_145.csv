@@ -1,0 +1,16 @@
+Trip ID,Duration,Start Date,Start Station,Start Terminal,End Date,End Station,End Terminal,Bike #,Subscription Type,Zip Code
+198757,277,2/28/2014 20:40,Mountain View Caltrain Station,28,2/28/2014 20:45,Castro Street and El Camino Real,32,129,Subscriber,94040
+198760,598,2/28/2014 20:59,Market at Sansome,77,2/28/2014 21:09,South Van Ness at Market,66,283,Subscriber,94102
+198761,399,2/28/2014 20:59,Market at Sansome,77,2/28/2014 21:06,Civic Center BART (7th at Market),72,337,Subscriber,94103
+198763,685,2/28/2014 21:32,Clay at Battery,41,2/28/2014 21:43,Post at Kearney,47,606,Customer,56006
+198764,168,2/28/2014 21:32,2nd at Townsend,61,2/28/2014 21:35,San Francisco Caltrain (Townsend at 4th),70,427,Subscriber,94107
+198765,429,2/28/2014 21:34,Embarcadero at Bryant,54,2/28/2014 21:41,San Francisco Caltrain 2 (330 Townsend),69,433,Subscriber,94105
+198766,342,2/28/2014 21:41,Market at Sansome,77,2/28/2014 21:46,Yerba Buena Center of the Arts (3rd @ Howard),68,398,Subscriber,94105
+198767,744,2/28/2014 21:50,South Van Ness at Market,66,2/28/2014 22:03,Post at Kearney,47,511,Subscriber,94702
+198768,225,2/28/2014 21:54,2nd at Folsom,62,2/28/2014 21:57,Yerba Buena Center of the Arts (3rd @ Howard),68,635,Subscriber,94107
+198770,850,2/28/2014 22:19,Townsend at 7th,65,2/28/2014 22:34,Post at Kearney,47,479,Subscriber,94108
+198771,385,2/28/2014 22:15,Powell Street BART,39,2/28/2014 22:22,South Van Ness at Market,66,483,Subscriber,94404
+198772,145,2/28/2014 22:38,Commercial at Montgomery,45,2/28/2014 22:40,Davis at Jackson,42,425,Subscriber,94111
+198773,677,2/28/2014 22:45,Embarcadero at Sansome,60,2/28/2014 22:56,Market at 4th,76,438,Subscriber,94102
+198774,64128,2/28/2014 23:01,Civic Center BART (7th at Market),72,3/1/2014 16:50,Harry Bridges Plaza (Ferry Building),50,414,Customer,94124
+198775,570,2/28/2014 23:20,2nd at South Park,64,2/28/2014 23:30,Townsend at 7th,65,577,Subscriber,94107
